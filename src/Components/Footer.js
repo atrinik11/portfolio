@@ -36,13 +36,6 @@ class Footer extends Component {
                 <a href="mailto:reenm2017@gmail.com">
                   <i className="fas fa-at" />
                 </a>
-                <a
-                  href="https://www.facebook.com/reena.mahapatra"
-                  rel="noopener noreferrer"
-                  target="_blank"
-                >
-                  <i className="devicon-facebook-plain colored" />
-                </a>
               </div>
             </div>
           </div>

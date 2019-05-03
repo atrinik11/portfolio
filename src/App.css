@@ -673,7 +673,8 @@ nav ul li.active > a {
     margin: auto;
   }
   .btn-lg {
-    height: 55px;
+    height: 125px;
+    border-radius: 30%;
   }
   .btn-lg:hover {
     font-size: 25px;
@@ -692,11 +693,11 @@ nav ul li.active > a {
   }
   .center {
     top: 412%;
-    margin-left: -400px;
+    margin-left: -550px;
   }
   .center1 {
     top: 412%;
-    margin-left: -58px;
+    margin-left: -138px;
   }
   .center2 {
     top: 412%;
